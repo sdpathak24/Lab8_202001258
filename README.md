@@ -1,6 +1,6 @@
 # 202001258_Lab8
-# Name : Sarvagn Pathak
-# Student-ID : 202001258
+## Name : Sarvagn Pathak
+## Student-ID : 202001258
 
 ## 1. Creating a new Eclipse project, package and defining the class
 ![233323971-54a3bc7b-5493-4cbd-babf-68ef7ec5ac12](https://user-images.githubusercontent.com/83827570/233596671-322437c6-ca78-4de6-93c4-eb3625d0a1e8.png)
